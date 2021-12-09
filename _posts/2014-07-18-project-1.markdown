@@ -1,6 +1,6 @@
 ---
 title: Owlfly
-subtitle: Website Design
+subtitle: Illustration
 layout: default
 modal-id: 1
 date: 2021-12-09
